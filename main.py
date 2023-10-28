@@ -17,6 +17,7 @@ while running:
             running = False
 
     game.draw()
+
     pygame.display.flip()
 
 pygame.quit()

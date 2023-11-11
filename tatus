@@ -1,0 +1,23 @@
+[33mcommit a0b65899ee061e2bf8e7a400803af27e74e6ed88[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: DekaTags <dekatags@gmail.com>
+Date:   Sat Oct 28 11:50:32 2023 +0900
+
+    플레이어 기체 렌더링
+
+[33mcommit 59687ca05bf6abb2bc49d2be958ebd2e932a8cb1[m
+Author: DekaTags <dekatags@gmail.com>
+Date:   Sat Oct 28 11:23:12 2023 +0900
+
+    배경 그리기
+
+[33mcommit f1499929452512970980dc394a0f20a4fa1648a8[m
+Author: DekaTags <dekatags@gmail.com>
+Date:   Sat Oct 28 11:03:57 2023 +0900
+
+    추상 클래스 만들기
+
+[33mcommit 96431a128d98ab7adec942d059efc6a980be4263[m
+Author: DekaTags <dekatags@gmail.com>
+Date:   Sat Oct 28 10:59:33 2023 +0900
+
+    Hell of Airplane
